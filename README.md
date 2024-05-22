@@ -4,12 +4,4 @@ This project endeavors to forecast the prices of pre-owned vehicles by employing
 
 This dataset is took from kaggle, Dataset contains 301 rows and 9 columns. The features/attributes of dataset are:
 
-1.Car_Name
-2.Year
-3.Selling_Price
-4.Present_Price
-5.Driven_kms
-6.Fuel_Type
-7.Selling_type
-8.Transmission
-9.Owner
+Car_Name, Year, Selling_Price, Present_Price, Driven_kms, Fuel_Type, Selling_type, Transmission, Owner
